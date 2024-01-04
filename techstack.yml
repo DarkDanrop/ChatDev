@@ -1,7 +1,8 @@
 repo_name: DarkDanrop/ChatDev
 report_id: 81d2efbed4ae5ffb2e70d202c15c61a3
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-10T14:29:39+00:00'
+timestamp: '2024-01-04T14:53:38+00:00'
 requested_by: Alphamasterliu
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/DarkDanrop/ChatDev
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/DarkDanrop/ChatDev
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/DarkDanrop/ChatDev
   detection_source: Repo Metadata
 - name: Matplotlib
   description: A plotting library for the Python programming language
@@ -44,6 +48,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/ExpenseEase_THUNLP_20230825093604/requirements.txt
   detection_source: WareHouse/ExpenseEase_THUNLP_20230825093604/requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -55,6 +60,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/2048_THUNLP_20230822144615/meta.txt
   detection_source: WareHouse/2048_THUNLP_20230822144615/meta.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -67,6 +73,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/DarkDanrop/ChatDev
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -76,6 +83,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DarkDanrop/ChatDev
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -85,6 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -96,6 +105,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/videoplayer_THUNLP_20230824233151/requirements.txt
   detection_source: WareHouse/videoplayer_THUNLP_20230824233151/requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -107,6 +117,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/Gomoku_THUNLP_20230625201030/requirements.txt
   detection_source: WareHouse/Gomoku_THUNLP_20230625201030/requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -116,6 +127,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/Article_pic_DefaultOrganization_20231023003059/templates/index.html
   detection_source: WareHouse/Article_pic_DefaultOrganization_20231023003059/templates/index.html
   last_updated_by: yudong mei
   last_updated_on: 2023-10-23 02:54:37.000000000 Z
@@ -127,6 +139,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/2048_THUNLP_20230822144615/meta.txt
   detection_source: WareHouse/2048_THUNLP_20230822144615/meta.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -140,7 +153,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/WareHouse/MoneyCtrl_THUNLP_20230825093546/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/MoneyCtrl_THUNLP_20230825093546/requirements.txt
   detection_source: WareHouse/MoneyCtrl_THUNLP_20230825093546/requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -153,7 +166,7 @@ tools:
   category: Communications
   sub_category: Large Language Models
   image_url: https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
   detection_source: WareHouse/FAIR_ENOUGH_ModelBest1024_20231026000126/requirements.txt
   last_updated_by: whh8654
   last_updated_on: 2023-10-26 07:28:40.000000000 Z
@@ -166,6 +179,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Desktop Development
   image_url: https://img.stackshare.io/service/6512/default_1e1ae07154b9f359c410f3f24ba3c96c1be21cdf.jpg
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/GreedySnakeGame_THUNLP_20231008212648/requirements.txt
   detection_source: WareHouse/GreedySnakeGame_THUNLP_20231008212648/requirements.txt
   last_updated_by: Stephen Chou
   last_updated_on: 2023-10-14 06:50:48.000000000 Z
@@ -179,7 +193,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19834/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -193,7 +207,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20375/default_86c41789cbd5dc6b872b122419740f58f5d2f18a.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -207,7 +221,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19908/default_67f813d4aac73d024261bcfded6ef2b918e384a0.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-10-26 02:57:21.000000000 Z
@@ -221,7 +235,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20065/default_bb49fb0188726b8922387d8bb6e9b2cd0c3c0ea9.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/WareHouse/BookBreeze_THUNLP_20230825072339/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/BookBreeze_THUNLP_20230825072339/requirements.txt
   detection_source: WareHouse/BookBreeze_THUNLP_20230825072339/requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -248,7 +262,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19890/default_87fc2af3f2409064833512bb6fc5b04443a2e6aa.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -262,7 +276,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19906/default_2aeed05332f0410b54817405c7e8e202a7e763cf.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
   detection_source: WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
   last_updated_by: liuxiaoming
   last_updated_on: 2023-10-26 10:53:26.000000000 Z
@@ -276,7 +290,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19845/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -290,7 +304,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20000/default_7c419d5d5f0cfad7886b95266eae7ba305cedacf.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -304,7 +318,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/WareHouse/Typing_THUNLP_20230824105537/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/Typing_THUNLP_20230824105537/requirements.txt
   detection_source: WareHouse/Typing_THUNLP_20230824105537/requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -317,7 +331,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
   detection_source: WareHouse/FAIR_ENOUGH_ModelBest1024_20231026000126/requirements.txt
   last_updated_by: whh8654
   last_updated_on: 2023-10-26 07:28:40.000000000 Z
@@ -331,7 +345,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/WareHouse/videoplayer_THUNLP_20230824233151/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/videoplayer_THUNLP_20230824233151/requirements.txt
   detection_source: WareHouse/videoplayer_THUNLP_20230824233151/requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -345,7 +359,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/WareHouse/MoneyCtrl_THUNLP_20230825093546/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/MoneyCtrl_THUNLP_20230825093546/requirements.txt
   detection_source: WareHouse/MoneyCtrl_THUNLP_20230825093546/requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -359,7 +373,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20148/default_29fd040eb57820a7b7a415b9eba1bba73c05d9c8.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/WareHouse/QRCodeGenerator_THUNLP_20231015214731/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/QRCodeGenerator_THUNLP_20231015214731/requirements.txt
   detection_source: WareHouse/QRCodeGenerator_THUNLP_20231015214731/requirements.txt
   last_updated_by: YingMing Zhou
   last_updated_on: 2023-10-16 02:34:54.000000000 Z
@@ -373,7 +387,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19923/default_c8be5290cb8d8a8b578535a2c6475d1057ff4ea4.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -387,7 +401,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
   detection_source: WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
   last_updated_by: liuxiaoming
   last_updated_on: 2023-10-26 10:53:26.000000000 Z
@@ -408,7 +422,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20213/default_91afeaad6f5d17a2b513346f3f744a53cbd8a9ad.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
   detection_source: WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
   last_updated_by: liuxiaoming
   last_updated_on: 2023-10-26 10:53:26.000000000 Z
@@ -422,7 +436,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20027/default_fd02050783f95269bfcc5c4d11f1c75dd423cd1d.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -436,7 +450,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19970/default_1c8812e05cf754e8f654b8d86b3f025827f5bfb6.png
-  detection_source_url: github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: thinkwee
   last_updated_on: 2023-09-04 11:24:28.000000000 Z
@@ -449,6 +463,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/DarkDanrop/ChatDev/blob/main/WareHouse/WordCloud_THUNLP_20231015215721/requirements.txt
   detection_source: WareHouse/WordCloud_THUNLP_20231015215721/requirements.txt
   last_updated_by: YingMing Zhou
   last_updated_on: 2023-10-16 02:35:32.000000000 Z
